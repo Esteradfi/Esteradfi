@@ -24,7 +24,7 @@
 I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 In 10 years, I see myself as a team leader, although so far I'm only a junior ;)
 
-In my free time, I go to meetups of Frontend communities and IT forums, read fiction and professional literature (at the moment I have read "Clean Code" and "Clean Agile" by R. Martin, "Groak Algorithms" by A. Bhargava), articles on habr and other forums , I read thematic chats and channels in Telegram.
+In my free time, I go to meetups of Frontend communities and IT forums, read fiction and professional literature, articles on habr and other forums , I read thematic chats and channels in Telegram.
 
 ---
 
